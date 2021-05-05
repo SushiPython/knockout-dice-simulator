@@ -1,0 +1,10 @@
+{"iterations": 10000, "team_1_wins": 40, "team_2_wins": 57, "ties": 3, "time_taken": 2.6652302742004395, "xIt": 0, "t1wp": 40.0, "t2wp": 56.99999999999999, "tiep": 3.0}
+{"iterations": 10000, "team_1_wins": 51, "team_2_wins": 46, "ties": 3, "time_taken": 1.7537691593170166, "xIt": 1, "t1wp": 51.0, "t2wp": 46.0, "tiep": 3.0}
+{"iterations": 10000, "team_1_wins": 48, "team_2_wins": 47, "ties": 5, "time_taken": 2.9546427726745605, "xIt": 2, "t1wp": 48.0, "t2wp": 47.0, "tiep": 5.0}
+{"iterations": 10000, "team_1_wins": 58, "team_2_wins": 40, "ties": 2, "time_taken": 2.553129196166992, "xIt": 3, "t1wp": 57.99999999999999, "t2wp": 40.0, "tiep": 2.0}
+{"iterations": 10000, "team_1_wins": 49, "team_2_wins": 45, "ties": 6, "time_taken": 2.1903138160705566, "xIt": 4, "t1wp": 49.0, "t2wp": 45.0, "tiep": 6.0}
+{"iterations": 40000, "team_1_wins": 85, "team_2_wins": 110, "ties": 5, "time_taken": 12.438535690307617, "xIt": 0, "t1wp": 85.0, "t2wp": 110.00000000000001, "tiep": 5.0}
+{"iterations": 40000, "team_1_wins": 95, "team_2_wins": 95, "ties": 10, "time_taken": 9.260263442993164, "xIt": 1, "t1wp": 95.0, "t2wp": 95.0, "tiep": 10.0}
+{"iterations": 40000, "team_1_wins": 94, "team_2_wins": 103, "ties": 3, "time_taken": 7.177923202514648, "xIt": 2, "t1wp": 94.0, "t2wp": 103.0, "tiep": 3.0}
+{"iterations": 40000, "team_1_wins": 103, "team_2_wins": 90, "ties": 7, "time_taken": 8.087849378585815, "xIt": 3, "t1wp": 103.0, "t2wp": 90.0, "tiep": 7.000000000000001}
+{"iterations": 40000, "team_1_wins": 111, "team_2_wins": 81, "ties": 8, "time_taken": 6.193551540374756, "xIt": 4, "t1wp": 111.00000000000001, "t2wp": 81.0, "tiep": 8.0}
